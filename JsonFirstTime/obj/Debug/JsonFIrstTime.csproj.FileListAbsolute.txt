@@ -1,0 +1,13 @@
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\bin\Debug\JsonFIrstTime.exe.config
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\bin\Debug\JsonFIrstTime.exe
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\bin\Debug\JsonFIrstTime.pdb
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.csprojAssemblyReference.cache
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.Form1.resources
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.Properties.Resources.resources
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.csproj.GenerateResource.cache
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.csproj.CoreCompileInputs.cache
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.exe
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.pdb
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.csproj.CopyComplete

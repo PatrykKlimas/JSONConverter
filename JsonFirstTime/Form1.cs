@@ -21,7 +21,6 @@ namespace JsonFIrstTime
 
         private void Button_Deserialise_Click(object sender, EventArgs e)
         {
-            //debugOutput(textInput.Text);
             deserialiseJSON(textInput.Text);
         }
 
@@ -39,7 +38,6 @@ namespace JsonFIrstTime
             {
 
                 var jPerson = JsonConvert.DeserializeObject<dynamic>(strJSON);
-                
                 debugOutput("Here is the name: " + jPerson.name);
                 debugOutput("Here is the surname: " + jPerson.surname);
                 debugOutput("Here is the age: " + jPerson.age);
@@ -96,5 +94,13 @@ namespace JsonFIrstTime
         }
 
         #endregion
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+            f2.SetFrom1(this);
+            this.Hide();
+            f2.Show();
+        }
     }
 }

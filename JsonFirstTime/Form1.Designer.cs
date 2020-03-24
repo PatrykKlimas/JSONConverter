@@ -32,9 +32,10 @@
             this.Button_Clear = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.textInput = new System.Windows.Forms.TextBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.textOutput = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -69,6 +70,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Row JSON String";
             // 
+            // textInput
+            // 
+            this.textInput.Location = new System.Drawing.Point(7, 17);
+            this.textInput.Multiline = true;
+            this.textInput.Name = "textInput";
+            this.textInput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.textInput.Size = new System.Drawing.Size(410, 71);
+            this.textInput.TabIndex = 0;
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.textOutput);
@@ -79,15 +89,6 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Debug Output";
             // 
-            // textInput
-            // 
-            this.textInput.Location = new System.Drawing.Point(7, 17);
-            this.textInput.Multiline = true;
-            this.textInput.Name = "textInput";
-            this.textInput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textInput.Size = new System.Drawing.Size(410, 71);
-            this.textInput.TabIndex = 0;
-            // 
             // textOutput
             // 
             this.textOutput.Location = new System.Drawing.Point(8, 14);
@@ -97,11 +98,22 @@
             this.textOutput.Size = new System.Drawing.Size(403, 79);
             this.textOutput.TabIndex = 1;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(281, 102);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(116, 24);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Serialise Object";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(450, 249);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.Button_Clear);
@@ -126,6 +138,7 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TextBox textInput;
         private System.Windows.Forms.TextBox textOutput;
+        private System.Windows.Forms.Button button1;
     }
 }
 

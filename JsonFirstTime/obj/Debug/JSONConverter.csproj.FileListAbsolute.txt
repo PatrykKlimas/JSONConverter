@@ -11,3 +11,4 @@ C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\
 C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JSONConverter.csproj.CopyComplete
 C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.exe
 C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.pdb
+C:\Users\Władca\Desktop\Programowanie\C#\JsonFIrstTime\JsonFIrstTime\obj\Debug\JsonFIrstTime.Form2.resources
